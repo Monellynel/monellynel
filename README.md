@@ -1,8 +1,5 @@
 ## About me 
 
-<!--
-**Monellynel/monellynel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 -💻 software developer
 - ☁️ just a gal with her head in the azure clouds 
@@ -13,3 +10,9 @@
 - 🧐 I’m looking for help with getting more exposure as a young dev, especially in healthcare programs
 - 📫 How to reach me: monica.elyse.nelson@outlook.com
 -->
+
+
+<!--
+**Monellynel/monellynel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+

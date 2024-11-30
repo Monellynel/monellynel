@@ -2,7 +2,6 @@
 
 
 -💻 software developer
-- ☁️ just a gal with her head in the azure clouds 
 -🩶 i'm fond of many languages, but c++ will always be my first love
 - ⌨️ favorite platform to write code: MS Word first-- i know, brutal-- then, repl.it
 - 🤸🏻 advid pilates, solidcore, and barre goer

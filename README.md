@@ -2,7 +2,9 @@
 
 
 -💻 software developer
+
 -🩶 i'm fond of many languages, but c++ will always be my first love
+
 - ⌨️ favorite platform to write code: MS Word first-- i know, brutal-- then, repl.it
 - 🤸🏻 advid pilates, solidcore, and barre goer
 - 💬 I’m looking to collaborate on new app developement ideas and like-minded devs
